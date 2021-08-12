@@ -90,7 +90,7 @@ export const Task = ({
 
 const styles = StyleSheet.create({
   container: {
-    width: windowWidth / 1.3,
+    width: windowWidth / 1.2,
     marginVertical: 16,
     borderWidth: 1,
     borderRadius: 12,

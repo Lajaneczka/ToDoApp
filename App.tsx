@@ -199,7 +199,7 @@ const styles = StyleSheet.create({
   },
   input: {
     borderWidth: 1,
-    width: 300,
+    width: 200,
     height: 40,
   },
   button: {
